@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sam assignment 2</string>
+    <string name="greetings">Hello Gbohunmi</string>
+    <string name="noOfTap" translatable="false">No of Taps : %1$d</string>
+    <string name="tapButton" translatable="false">TAP</string>
+    <string name="switchButton" translatable="false">HIDE</string>
+</resources>
